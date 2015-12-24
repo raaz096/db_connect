@@ -1,0 +1,31 @@
+<html>
+<body bgcolor='#F0F8FF'>
+<h1 align='center'><b>Register Here</b></h1>
+<form action="try.php" method="post">
+
+<table align='center'>
+
+<tr>
+<td><b>Name:</b> </td>
+<td><input type="text" name="name"></td>
+</tr>
+
+<tr>
+<td><b>E-mail:</b></td>
+<td><input type="text" name="email"></td>
+</tr>
+
+<tr>
+<td><b>Password:</b></td>
+<td> <input type="password" name="pwd"></td>
+</tr>
+
+<tr>
+<td><b>Phone No:</b></td>
+<td> <input type="text" name="number"></td>
+</tr>
+<tr><td><input type="submit" value='log in'></td></tr>
+
+</table>
+
+</form>
